@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ITPMアプリ</string>
+    <string name="title_activity_edit">編集</string>
+    <string name="title">タイトル</string>
+    <string name="company_title">株式会社ITPM</string>
+    <string name="edit">編集</string>
+    <string name="a_new">新規</string>
+    <string name="error_no_title">タイトル名がありません。</string>
+</resources>
